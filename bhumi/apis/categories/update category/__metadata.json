@@ -1,0 +1,10 @@
+{
+  "$schema": "https://assets.requestly.com/local/v1.11.0/metadata.json",
+  "type": "api",
+  "entryType": "http",
+  "id": "e323a4d6-3149-42b1-8c1e-944ff6b8ab4e",
+  "rank": "",
+  "url": "{{base}}/categories/update-category/1",
+  "method": "PUT",
+  "contentType": "none"
+}

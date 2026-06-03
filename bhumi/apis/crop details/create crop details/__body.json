@@ -1,0 +1,90 @@
+{
+  "$schema": "https://assets.requestly.com/local/v1.11.0/body.json",
+  "contentType": "multipart/form-data",
+  "raw": "",
+  "rawContentType": "application/json",
+  "formData": [
+    {
+      "id": 1780481654800,
+      "key": "title",
+      "value": "Introduction to Jasmine Cultivation",
+      "isEnabled": true,
+      "type": "text"
+    },
+    {
+      "id": 1780481677278,
+      "key": "titleHi",
+      "value": "\"चमेली की खेती का परिचय",
+      "isEnabled": true,
+      "type": "text"
+    },
+    {
+      "id": 1780481693172,
+      "key": "description",
+      "value": "Jasmine is a highly valued aromatic flowering crop grown for its fragrant flowers and essential oil. It is widely used in perfumes, cosmetics, religious ceremonies, and the floral industry. Jasmine thrives in warm and humid climates with well-drained fertile soils. Proper management of irrigation, pruning, and nutrient application helps achieve high flower yield and quality.",
+      "isEnabled": true,
+      "type": "text"
+    },
+    {
+      "id": 1780481710783,
+      "key": "descriptionHi",
+      "value": "चमेली एक महत्वपूर्ण सुगंधित पुष्पीय फसल है जिसकी खेती सुगंधित फूलों और आवश्यक तेल के लिए की जाती है। इसका उपयोग इत्र, सौंदर्य प्रसाधनों, धार्मिक अनुष्ठानों और पुष्प उद्योग में व्यापक रूप से किया जाता है। चमेली गर्म और आर्द्र जलवायु तथा अच्छी जल निकासी वाली उपजाऊ मिट्टी में अच्छी तरह बढ़ती है। उचित सिंचाई, छंटाई और पोषक तत्व प्रबंधन से उच्च गुणवत्ता एवं अधिक फूल उत्पादन प्राप्त किया जा सकता है।",
+      "isEnabled": true,
+      "type": "text"
+    },
+    {
+      "id": 1780481735196,
+      "key": "sequence",
+      "value": "6",
+      "isEnabled": true,
+      "type": "text"
+    },
+    {
+      "id": 1780481794423,
+      "key": "crop_id",
+      "value": "9",
+      "isEnabled": true,
+      "type": "text"
+    },
+    {
+      "id": 1780481871013,
+      "key": "crop_details_theme_image",
+      "value": [
+        {
+          "type": "reference",
+          "id": "jasmin332.jpg-1780481965654",
+          "name": "jasmin332.jpg",
+          "path": "C:\\Users\\himan\\Downloads\\jasmin332.jpg",
+          "size": 63674,
+          "source": "desktop"
+        },
+        {
+          "type": "reference",
+          "id": "jas.webp-1780481965654",
+          "name": "jas.webp",
+          "path": "C:\\Users\\himan\\Downloads\\jas.webp",
+          "size": 58738,
+          "source": "desktop"
+        },
+        {
+          "type": "reference",
+          "id": "jasmin1.jpg-1780481965654",
+          "name": "jasmin1.jpg",
+          "path": "C:\\Users\\himan\\Downloads\\jasmin1.jpg",
+          "size": 81258,
+          "source": "desktop"
+        },
+        {
+          "type": "reference",
+          "id": "jasmine.jpg-1780481965654",
+          "name": "jasmine.jpg",
+          "path": "C:\\Users\\himan\\Downloads\\jasmine.jpg",
+          "size": 14008,
+          "source": "desktop"
+        }
+      ],
+      "isEnabled": true,
+      "type": "file"
+    }
+  ]
+}

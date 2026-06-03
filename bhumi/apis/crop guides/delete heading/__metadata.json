@@ -1,0 +1,10 @@
+{
+  "$schema": "https://assets.requestly.com/local/v1.11.0/metadata.json",
+  "type": "api",
+  "entryType": "http",
+  "id": "f2e7399e-036c-47c7-ad5c-64fd3205e24d",
+  "rank": "",
+  "url": "{{base}}/crops_guides/delete_headings/6",
+  "method": "DELETE",
+  "contentType": "none"
+}

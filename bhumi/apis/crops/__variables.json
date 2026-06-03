@@ -1,0 +1,14 @@
+{
+  "$schema": "https://assets.requestly.com/local/v1.11.0/collection-variables.json",
+  "crops": {
+    "id": "a170554d-0098-47da-8c21-a9048ed8efa3",
+    "syncValue": "http://localhost:5000/api/crops",
+    "type": "string",
+    "isEnabled": true,
+    "rank": "hmpvdgmbx",
+    "createdAt": "2026-06-01T15:37:14.021Z",
+    "updatedAt": "2026-06-01T15:37:14.021Z",
+    "createdBy": null,
+    "updatedBy": null
+  }
+}

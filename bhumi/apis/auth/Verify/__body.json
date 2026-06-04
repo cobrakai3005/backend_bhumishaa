@@ -1,6 +1,0 @@
-{
-  "$schema": "https://assets.requestly.com/local/v1.11.0/body.json",
-  "contentType": "raw",
-  "raw": "{\n  \"phone\": \"himanshu\",\n  \"otp\": \"123456\"\n}",
-  "rawContentType": "application/json"
-}
